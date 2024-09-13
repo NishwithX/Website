@@ -6,5 +6,5 @@ export default defineConfig({
   server: {
     historyApiFallback: true,
   },
-  base:"/Website/"
+  base:"/Website/",
 })
