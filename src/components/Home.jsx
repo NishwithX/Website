@@ -8,7 +8,7 @@ function Home() {
         <ul>
           <li><Link to="/blog">Blog</Link></li>
           <li><Link to="/contact">Contact</Link></li>
-          <li><a href="/Website/projects">Projects</a></li>
+          <li><a href="/projects">Projects</a></li>
 
         </ul>
       </nav>
